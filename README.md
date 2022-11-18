@@ -38,7 +38,7 @@
 
 You can follow the format below(For details, please refer to the content in the **/example** directory) to pr the challenges that are not in the project.
 
-```json
+```shell
 .
 ├── .env
 ├── challenge.yml
